@@ -1,6 +1,6 @@
 # Base & Status
 alias g="git"
-alias gs="git status -sb"          # Short status with branch tracking info
+alias gs="git status"          # Short status with branch tracking info
 alias gd="git diff"                # Unstaged changes
 alias gds="git diff --staged"      # Staged changes ready to commit
 
